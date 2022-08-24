@@ -11,7 +11,7 @@
 
 
     <label for="Enter your Email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter your Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -19,11 +19,11 @@
     <br>
     
     <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Repeat your Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registration">Register</button>
   </div>
 
   <div class="container signin">
